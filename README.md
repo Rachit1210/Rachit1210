@@ -9,7 +9,7 @@
 <br><br>
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit1210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit1210/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rachit1210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit1210/" height="30" width="40" /></a>
 <a href="https://instagram.com/rachit1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachit1310" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rachitsrivasta10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rachitsrivasta10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rachit1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachit1310" height="30" width="40" /></a>
